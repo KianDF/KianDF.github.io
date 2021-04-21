@@ -1,0 +1,24 @@
+body{
+		background-image: url("Dungeon.jpg");
+		background-repeat: no-repeat;
+		background-size: 1375px 720px;
+	}
+	
+	h1 {color:#990000; font-family:"Garamond"; margin-bottom: -6px;}
+	p {color:#990000; font-family:"Garamond";}
+	
+	div.img {
+		position: relative;
+		left: 312px;
+		top: 79px;
+	}
+	
+	.StartBtn{
+		background-image: url("StartBtn.png");
+		width: 100px;
+		height: 50px;
+		border: none;
+		position: relative;
+		left: 580px;
+		top: 99px;
+	}
