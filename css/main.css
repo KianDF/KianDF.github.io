@@ -3,7 +3,7 @@ body {
     width: 70%;
     background-image: url("Dungeon.jpg");
 	background-repeat: no-repeat;
-	background-size: 1375px 720px;
+	background-size: 100% 100%;
 }
 
 nav ul, footer ul {
@@ -32,16 +32,7 @@ p {color:#990000; font-family:"Garamond";}
 	
 div.img {
 	    position: relative;
-		left: 312px;
-		top: 79px;
+		left: 50%;
+		top: 5%;
 	}
-	
-.StartBtn{
-	background-image: url("StartBtn.png");
-	width: 100px;
-	height: 50px;
-	border: none;
-	position: relative;
-	left: 580px;
-	top: 99px;
 }
