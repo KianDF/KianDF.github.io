@@ -1,21 +1,47 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-image: url("Dungeon.jpg");
+	background-repeat: no-repeat;
+	background-size: 1375px 720px;
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #999;
 }
+
 a:hover {
     text-decoration: underline;
+}
+
+h1 {color:#990000; font-family:"Garamond"; margin-bottom: -6px;}
+p {color:#990000; font-family:"Garamond";}
+	
+div.img {
+	    position: relative;
+		left: 312px;
+		top: 79px;
+	}
+	
+.StartBtn{
+	background-image: url("StartBtn.png");
+	width: 100px;
+	height: 50px;
+	border: none;
+	position: relative;
+	left: 580px;
+	top: 99px;
 }
