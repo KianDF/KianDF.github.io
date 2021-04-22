@@ -48,8 +48,12 @@ div.navi {
 
 div.items {
 	position: relative;
-	left: 80%;
+	left: 85%;
 	top: 15%;
+	
+}
+
+items ul li {
 	margin-bottom: 100px;
 }
 
