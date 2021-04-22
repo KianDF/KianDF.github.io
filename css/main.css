@@ -56,12 +56,15 @@ div.items ul li {
 	margin-bottom: 100px;
 }
 
+div.playerclass {
+	position: relative;
+	top: 75%;
+	left: 25%;	
+}
+
 #player {
 	width:128px;
 	height:128px;
-	position: relative;
-	top: 75%;
-	left: 25%;
 }
 
 }
