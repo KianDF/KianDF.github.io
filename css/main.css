@@ -43,13 +43,13 @@ div.img {
 div.navi {
     position: relative;
     left: 50%;
-    top: 40%;	
+    top: 60%;	
 }	
 
 div.items {
 	position: relative;
 	left: 85%;
-	top: 15%;
+	bottom: 15%;
 }
 
 div.items ul li {
@@ -58,7 +58,7 @@ div.items ul li {
 
 div.playerclass {
 	position: relative;
-	top: 75%;
+	top: 65%;
 	left: 25%;	
 }
 
