@@ -53,4 +53,9 @@ div.items {
 	margin-bottom: 100px;
 }
 
+div.player {
+	scale: 150%;
+	position: relative;	
+}
+
 }
