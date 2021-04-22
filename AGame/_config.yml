@@ -6,6 +6,8 @@ baseurl: ""
 
 sass:
     style: compressed
-    
-    
+
+#ignore the read me file.
+exclude:
+ - readme.md
 description: Choose your own adventure game
