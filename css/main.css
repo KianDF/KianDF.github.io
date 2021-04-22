@@ -54,8 +54,11 @@ div.items {
 }
 
 div.player {
-	scale: 150%;
-	position: relative;	
+	height:150px;
+	width:40px;
+	position: relative;
+	bottom: 20%;
+	left: 30%;
 }
 
 }
