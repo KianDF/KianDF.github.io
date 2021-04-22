@@ -35,4 +35,10 @@ div.img {
 		left: 50%;
 		top: 5%;
 	}
+div.navi{
+	position: relative;
+	left 50%;
+	top: 25%;
+}
+
 }
