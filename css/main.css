@@ -78,4 +78,15 @@ div.enemyClass {
 	height:192px;
 }
 
+div.gold {
+	position: relative;
+	top: 65%;
+	left: 65%;
+}
+
+#Treasure {
+	width:256px;
+	height: 256px;
+}
+
 }
