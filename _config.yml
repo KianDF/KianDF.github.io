@@ -8,8 +8,8 @@ sass:
     style: compressed
 
 #ignore the read me file.
-exclude:
- - README.md
+#exclude:
+ #- README.md
 
 
 highlighter: rouge
