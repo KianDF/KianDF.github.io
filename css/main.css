@@ -5,20 +5,19 @@ body, html {
 
 	background-image: url("Dungeon.jpg"); height:100%;
 	
-	/*background-position: center;*/
+	background-position: center;
   	background-repeat: no-repeat;
  	background-size: cover;
 }
 
-nav ul, footer ul {
+nav ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
-    list-style: none;
+    list-style: inside;
     font-weight: bold;
 }
 
-nav ul li, footer ul li {
-    display: inline;
+nav ul li{
     margin-right: 20px;
 }
 
@@ -39,6 +38,7 @@ div.img {
 		left: 50%;
 		top: 5%;
 	}
+
 div.navi {
 	position: relative;
 	left 50%;
