@@ -9,5 +9,5 @@ sass:
 
 #ignore the read me file.
 exclude:
- - readme.md
+ - README.md
 description: Choose your own adventure game
