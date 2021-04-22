@@ -2,11 +2,8 @@ body, html {
 	overflow: hidden;
 	height: 100%;
 	margin: 0;
-}
 
-.bg {
-	background-image: url("Dungeon.jpg");
-	height:100%;
+	background-image: url("Dungeon.jpg"); height:100%;
 	
 	background-position: center;
   	background-repeat: no-repeat;
