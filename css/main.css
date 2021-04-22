@@ -67,4 +67,15 @@ div.playerclass {
 	height:128px;
 }
 
+div.enemyclass {
+	position: relative;
+	top: 65%;
+	left: 75%;
+}
+
+#ogre {
+	width:192px;
+	height:192px;
+}
+
 }
