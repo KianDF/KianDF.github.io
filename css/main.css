@@ -48,7 +48,7 @@ div.navi {
 
 div.items {
 	position: relative;
-	right: 15%;
+	left: 80%;
 	top: 15%;
 	margin-bottom: 100px;
 }
@@ -57,6 +57,11 @@ div.player {
 	position: relative;
 	top: 75%;
 	left: 25%;
+}
+
+#player {
+	width:128px;
+	height:128px;
 }
 
 }
