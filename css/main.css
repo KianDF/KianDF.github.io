@@ -13,8 +13,11 @@ body, html {
 nav ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
-    list-style: inside;
+    list-style: outside;
     font-weight: bold;
+    position: relative;
+    left 50%;
+    top: 25%;
 }
 
 nav ul li{
@@ -40,9 +43,7 @@ div.img {
 	}
 
 div.navi {
-	position: relative;
-	left 50%;
-	top: 25%;
+
 }
 
 }
