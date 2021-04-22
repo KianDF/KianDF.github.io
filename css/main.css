@@ -54,11 +54,9 @@ div.items {
 }
 
 div.player {
-	height:250px;
-	width:60px;
 	position: relative;
 	top: 75%;
-	left: 20%;
+	left: 25%;
 }
 
 }
