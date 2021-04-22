@@ -3,38 +3,10 @@
 	<head>
 		<title>Dungeon Escape Game Start</title>
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		
-		<style>
-			canvas {
-				border: 1px solid #000000;
-				/**background-color: #000000;**/
-				background-image: "css/Dungeon.jpg";
-				background-image-size: 960px 540px;
-				position: relative;
-				left: 25%;
-				top: 25%;
-			}
-		</style>	
 	</head>
 	
-	<body onload="startGame()">
-		<script>
-			
-			function startGame() {
-				myGame.start();
-			}
-			
-			var myGame = {
-				    canvas : document.createElement("canvas"),
-   			 start : function() {
-        				this.canvas.width = 960;
-      	  				this.canvas.height = 540;
-        				this.context = this.canvas.getContext("2d");
-    	    				document.body.insertBefore(this.canvas, document.body.childNodes[0]);
-    					}
-				}
-			
-		</script>	
+	<body>
+		
 	</body>
 	
 	
