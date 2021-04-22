@@ -50,10 +50,9 @@ div.items {
 	position: relative;
 	left: 85%;
 	top: 15%;
-	
 }
 
-items ul li {
+div.items ul li {
 	margin-bottom: 100px;
 }
 
