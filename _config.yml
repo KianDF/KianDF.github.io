@@ -11,3 +11,5 @@ sass:
 exclude:
  - README.md
 description: Choose your own adventure game
+
+theme: jekyll-theme-midnight
